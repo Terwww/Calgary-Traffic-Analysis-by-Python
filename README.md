@@ -66,7 +66,10 @@ Operational teams need to know where and when incidents cluster, which incidents
 
 ## Power BI
 
-The script exports three tables to `outputs/powerbi/`: `fact_incidents.csv`, `fact_daily_weather.csv` and `dim_date.csv`, ready for a star-schema model. *(Add dashboard screenshots or PDF here.)*
+The script exports three tables to `outputs/powerbi/`: `fact_incidents.csv`, `fact_daily_weather.csv` and `dim_date.csv`, ready for a star-schema model. 
+<img width="1128" height="664" alt="PowerBI dashboard" src="https://github.com/user-attachments/assets/cdaf5938-65a7-4be9-aeba-7b9e1d33d0ee" />
+
+
 
 ## How to run
 
